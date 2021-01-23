@@ -1,0 +1,6 @@
+#以PYPDF2为例
+import PyPDF2 as a
+dir(a)#此模块下有哪些函数
+help(a)
+a._file_#找寻py源文件
+?a.floor#某一函数的用法
